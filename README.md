@@ -3,6 +3,7 @@
 ## Overview
 This project involves analyzing song lyrics and generating recommendations based on textual similarities. Utilizing Natural Language Processing (NLP) and Word Embeddings, the system performs exploratory data analysis (EDA), cleans and processes lyrics, and provides song recommendations based on user input. The key components of this project include data processing, sentiment analysis, and visualization using word clouds and t-SNE plots.
 
+* DATASET Source: https://www.kaggle.com/datasets/deepshah16/song-lyrics-dataset/data*
 
 - **Data Collection**: Aggregating song lyrics from multiple CSV files.
 - **Text Processing**: Cleaning and preprocessing the lyrics for analysis.
