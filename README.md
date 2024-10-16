@@ -11,14 +11,6 @@ This project involves analyzing song lyrics and generating recommendations based
 - **Recommendation System**: Using the trained model to recommend songs based on input lyrics.
 - **Visualization**: Creating visualizations to understand the distribution of song lengths, popular artists, and word embeddings.
 
-## Table of Contents
-
-1. [Getting Started](#getting-started)
-2. [Data Preparation](#data-preparation)
-3. [Word2Vec Model](#word2vec-model)
-4. [Song Recommendation](#song-recommendation)
-5. [Visualization](#visualization)
-6. [Dependencies](#dependencies)
 
 ## Project Structure 
 1. Data Loading and Preparation
